@@ -5,6 +5,7 @@ public class Gitproject1 {
 	public void test1(){				
 		 
 		System.out.println("Saras");
+		System.out.println("krithik");
 		}
 	
 }
